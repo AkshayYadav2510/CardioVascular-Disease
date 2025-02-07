@@ -1,1 +1,1 @@
-App Link- https://cardiovascular-disease-2510.streamlit.app/
+App Link- https://cardiovascular-disease-predictor1.streamlit.app/
